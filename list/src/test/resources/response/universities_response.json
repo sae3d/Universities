@@ -1,0 +1,11 @@
+[
+  {
+    "state-province": "state",
+    "name": "name",
+    "country": "country",
+    "alpha_two_code": "code",
+    "web_pages": [
+      "url"
+    ]
+  }
+]
